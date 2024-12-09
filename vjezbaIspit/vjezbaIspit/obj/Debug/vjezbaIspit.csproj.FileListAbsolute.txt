@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\vjezbaIspit\vjezbaIspit\obj\Debug\vjezbaIspit.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\vjezbaIspit\vjezbaIspit\obj\Debug\vjezbaIspit.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\vjezbaIspit\vjezbaIspit\bin\Debug\vjezbaIspit.exe.config
+C:\Users\Učenik\source\repos\vjezbaIspit\vjezbaIspit\bin\Debug\vjezbaIspit.exe
+C:\Users\Učenik\source\repos\vjezbaIspit\vjezbaIspit\bin\Debug\vjezbaIspit.pdb
+C:\Users\Učenik\source\repos\vjezbaIspit\vjezbaIspit\obj\Debug\vjezbaIspit.exe
+C:\Users\Učenik\source\repos\vjezbaIspit\vjezbaIspit\obj\Debug\vjezbaIspit.pdb
